@@ -12,7 +12,7 @@
 
 Update an existing budget tracker application to allow for offline access and functionality. Users will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online.
 
-The application is deployed on Heroku and can be found at
+The application is deployed on Heroku and can be found at https://intense-cliffs-70615.herokuapp.com/
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
