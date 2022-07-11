@@ -34,7 +34,7 @@ THEN the deposits or expenses added while they were offline are added to their t
 
 # Mock Up
 
-<img src='./develop/public/images/mock-up.png' />
+<img src='./public/images/mock-up.png' />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
